@@ -1,9 +1,9 @@
 # Trabalho Comunicação Publish/Subscribe
 
 O objetivo desse trabalho é fazer um "Whatsapp" usando Comunicação Publish/Subscribe com broker RabbitMQ.
-O código funciona da seguinte forma:
+Qual o IP da maquina com o Broker: --Aqui deverá ser colocado o IP da máquina em que o broker está rodando no formato: 10.10.0.91
 
-primeiro é necessário informar o IP da máquina em que o broker está rodando, além disso 
+
 
 ### Pub-Sub-Zap
 ```
