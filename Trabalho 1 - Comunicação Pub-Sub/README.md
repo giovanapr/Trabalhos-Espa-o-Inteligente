@@ -1,6 +1,6 @@
-# Trabalho_IS
+# Trabalho Comunicação Publish/Subscribe
 
-Nessa aplicação vão ser mandadas requisições para simular o Set e Get position de um robô. Para roda-lá primeiro é preciso executar um amqp broker localmente, para fazer a comunicação entre os serviços, depois executar o container de cada "Parte", sendo que o container da Parte 1 deve ser o último a ser executado.
+O objetivo desse trabalho é fazer um "Whatsapp" usando Comunicação Publish/Subscribe com broker RabbitMQ. Para isso 
 
 ### Broker
 ```
