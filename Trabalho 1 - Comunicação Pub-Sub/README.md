@@ -4,7 +4,13 @@ O objetivo desse trabalho é fazer um "Whatsapp" usando Comunicação Publish/Su
 
 Qual o IP da maquina com o Broker: --Aqui deverá ser colocado o IP da máquina em que o broker está rodando no formato: 10.10.0.91
 
+Conexão iniciada
 
+Foi realizada uma subscription no topic "Aluno.Matheus".
+
+Ele está aguardando uma mensagem na fila.
+
+Quando receber uma mensagem
 
 ### Pub-Sub-Zap
 ```
